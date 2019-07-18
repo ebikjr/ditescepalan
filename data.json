@@ -1,0 +1,27 @@
+[
+    {
+        "description": "Saklar Teras Rumah",
+        "ruang": "teras",
+        "status": 1
+    },
+    {
+        "description": "Saklar Ruang Tamu",
+        "ruang": "tamu",
+        "status": 0
+    },
+    {
+        "description": "Buka Gerbang",
+        "ruang": "buka",
+        "status": 0
+    },
+    {
+        "description": "Tutup Gerbang",
+        "ruang": "tutup",
+        "status": 0
+    },
+    {
+        "description": "Kipas",
+        "ruang": "kipas",
+        "status": 0
+    }
+]
