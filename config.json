@@ -4,7 +4,7 @@
     "toolbar": false,
     "navigation_drawer": false,
     "geolocation": false,
-    "cache": false,
+    "cache": true,
     "open_link_in_external_browser": false,
     "zoom_controls": false,
     "user_agent": "",
@@ -44,36 +44,8 @@
       "name": "Home",
       "type": "https://tutwer.com",
       "icon": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/webview/icons/home.png",
-      "url": "https://tutwer.com",
-      "url_dark": "https://www.solodroid.net/demo/webdroid/pages/dashboard_dark.html"
-    },
-    {
-      "name": "Portfolio",
-      "type": "url",
-      "icon": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/webview/icons/portfolio.png",
-      "url": "https://www.solodroid.net/demo/webdroid/pages/portfolio.html",
-      "url_dark": "https://www.solodroid.net/demo/webdroid/pages/portfolio_dark.html"
-    },
-    {
-      "name": "Testimonials",
-      "type": "url",
-      "icon": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/webview/icons/testimonials.png",
-      "url": "https://www.solodroid.net/demo/webdroid/pages/testimonials.html",
-      "url_dark": "https://www.solodroid.net/demo/webdroid/pages/testimonials_dark.html"
-    },
-    {
-      "name": "Contact us",
-      "type": "url",
-      "icon": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/webview/icons/contact.png",
-      "url": "https://www.solodroid.net/demo/webdroid/pages/contact.html",
-      "url_dark": "https://www.solodroid.net/demo/webdroid/pages/contact_dark.html"
-    },
-    {
-      "name": "Privacy Policy",
-      "type": "assets",
-      "icon": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/webview/icons/privacy-policy.png",
-      "url": "privacy_policy.html",
-      "url_dark": "privacy_policy_dark.html"
+      "url": "https://syn.apikconstruction.com/login",
+      "url_dark": "https://syn.apikconstruction.com/login"
     }
   ],
   "ads": {
